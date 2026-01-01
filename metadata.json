@@ -1,0 +1,5 @@
+{
+  "name": "ScriptSplit Pro",
+  "description": "A high-performance text-processing tool designed to split scripts into manageable chunks based on character limits, ensuring word boundaries are respected and original formatting is preserved.",
+  "requestFramePermissions": []
+}
